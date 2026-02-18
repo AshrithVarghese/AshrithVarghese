@@ -26,7 +26,7 @@ src="https://img.shields.io/github/followers/AshrithVarghese?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AshrithVarghese"><img src="https://komarev.com/ghpvc/?username=AshrithVarghese&style=flat-square&color=blue&base=900" alt="AshrithVarghese's GitHub stats" /></a>
+<a href="http://www.github.com/AshrithVarghese"><img src="https://github-readme-streak-stats-w194.vercel.app/?user=AshrithVarghese&theme=github-dark-blue" alt="AshrithVarghese's GitHub stats" /></a>
 
 <a href="https://github.com/AshrithVarghese" align="left"><img src="https://komarev.com/ghpvc/?username=AshrithVarghese&style=flat-square&color=blue&base=900" alt="Top Languages" /></a>
 

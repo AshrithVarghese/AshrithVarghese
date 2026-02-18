@@ -26,9 +26,9 @@ src="https://img.shields.io/github/followers/AshrithVarghese?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AshrithVarghese"><img src="https://github-readme-stats.vercel.app/api?username=AshrithVarghese&show_icons=true&hide=issues,&count_private=true&title_color=444e59&text_color=ffffff&icon_color=444e59&bg_color=181824&hide_border=true&show_icons=true" alt="AshrithVarghese's GitHub stats" /></a>
+<a href="http://www.github.com/AshrithVarghese"><img src="https://gitstats-pyo65wocq-ashrithvargheses-projects.vercel.app/api?username=AshrithVarghese&show_icons=true&hide=issues,&count_private=true&title_color=444e59&text_color=ffffff&icon_color=444e59&bg_color=181824&hide_border=true&show_icons=true" alt="AshrithVarghese's GitHub stats" /></a>
 
-<a href="https://github.com/AshrithVarghese" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrithVarghese&langs_count=10&title_color=444e59&text_color=ffffff&icon_color=444e59&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/AshrithVarghese" align="left"><img src="https://gitstats-pyo65wocq-ashrithvargheses-projects.vercel.app/api/top-langs/?username=AshrithVarghese&langs_count=10&title_color=444e59&text_color=ffffff&icon_color=444e59&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 

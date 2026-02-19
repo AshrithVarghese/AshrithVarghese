@@ -29,6 +29,7 @@ A self taught web developer who is currently keeping an eye on latest web trends
 <a href="https://www.github.com/AshrithVarghese" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AshrithVarghese?logo=github&style=for-the-badge&color=444e59&labelColor=181824" /></a>
 
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/AshrithVarghese"><img src="https://github-readme-streak-stats-w194.vercel.app/?user=AshrithVarghese&theme=github-dark-blue" alt="AshrithVarghese's GitHub stats" /></a>

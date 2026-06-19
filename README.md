@@ -1,45 +1,332 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ashrith Varghese A
-===========================================================================================================================================
 
-Full Stack Developer
---------------------
+# <div align="center">Ashrith Varghese A</div>
 
-A self taught web developer who is currently keeping an eye on latest web trends...
+<div align="center">
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [Abracadabraaa🪄](http://ashrithvarghese.netlify.app)
-* ✉️  You can contact me at [ashrithvarghese@gmail.com](mailto:ashrithvarghese@gmail.com)
-* 💬  Ask me about Shhh... a little secret for you, I am a spiderman...that's why i develop web
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:7C3AED,100:312E81&text=Ashrith%20Varghese%20A&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Software+Engineer;Full+Stack+Developer;Product+Builder;Founder+%40+Webernyx;Building+Scalable+Web+Applications" />
 
-<a href="https://ashrithvarghese.netlify.app/">
-    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge" alt="Portfolio"/>
-</a>
+<br/>
 
+![B.Tech](https://img.shields.io/badge/B.Tech-CSE-blueviolet?style=for-the-badge)
+![College](https://img.shields.io/badge/Jyothi_Engineering_College-Student-6C63FF?style=for-the-badge)
+![Location](https://img.shields.io/badge/Thrissur-Kerala-7C3AED?style=for-the-badge)
 
-![](https://komarev.com/ghpvc/?username=AshrithVarghese&style=flat&abbreviated=true&color=blueviolet&base=900)
+<br/>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://resend.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/resend-colored-dark.svg" alt="Resend" title="Resend" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+<a href="https://ashrith.webernyx.in"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"></a>
+<a href="https://linkedin.com/in/ashrith-varghese/"><img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge"></a>
+<a href="mailto:ashrithvarghese@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-4338CA?style=for-the-badge"></a>
+<a href="https://github.com/AshrithVarghese"><img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge"></a>
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=AshrithVarghese&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/AshrithVarghese?style=for-the-badge&color=6C63FF)
+![](https://img.shields.io/github/stars/AshrithVarghese?style=for-the-badge&color=4338CA)
+
+</div>
+
+---
+
+# About
+
+Software Engineer, Full Stack Developer, Product Builder, and Founder of Webernyx.
+
+Currently pursuing a Bachelor's Degree in Computer Science & Engineering at Jyothi Engineering College while building production-grade applications, SaaS platforms, internal tools, and scalable digital products.
+
+### Open To
+
+- Software Engineering Internships
+- Freelance Projects
+- Product Development
+- Startup Collaborations
+- Open Source Contributions
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java" />
 </p>
 
-### Socials
+## Frontend
 
-<p align="left"> <a href="https://www.github.com/AshrithVarghese" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/ashrith-varghese" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/ashrith_varghese" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-<a href="https://www.github.com/AshrithVarghese" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AshrithVarghese?logo=github&style=for-the-badge&color=444e59&labelColor=181824" /></a>
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
+</p>
 
+## Backend & Databases
 
-<b>My GitHub Stats</b>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis" />
+</p>
 
-<a href="http://www.github.com/AshrithVarghese"><img src="https://github-readme-streak-stats-w194.vercel.app/?user=AshrithVarghese&theme=github-dark-blue" alt="AshrithVarghese's GitHub stats" /></a>
+## Cloud, DevOps & Tooling
 
-<a href="https://github.com/AshrithVarghese" align="left"><img src="https://komarev.com/ghpvc/?username=AshrithVarghese&style=flat-square&color=blue&base=900" alt="Top Languages" /></a>
+<p>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,docker,aws,azure,githubactions,git" />
+</p>
 
-### Support Me
+---
 
-<ul style="list-style-type: none; margin: 0;">
+# Engineering Expertise
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ashrithvarghese"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+| Domain | Proficiency | Details |
+|----------|----------|----------|
+| Full Stack Development | Advanced | MERN, React, Node.js, PostgreSQL |
+| Product Engineering | Advanced | SaaS, MVP Development, Production Deployments |
+| Backend Development | Intermediate | REST APIs, Authentication, Databases |
+| Cloud & Deployment | Intermediate | Vercel, Netlify, Render |
+| AI Assisted Development | Intermediate | Productivity Workflows & Modern AI Tooling |
 
-</ul>
+---
+
+# Featured Projects
+
+<details>
+<summary><b>🏢 Staffo - Staff Availability & Optimization Platform</b></summary>
+
+### Overview
+
+Campus-wide staff availability management platform deployed at Jyothi Engineering College.
+
+| Metric | Details |
+|---------|---------|
+| Stack | React, Supabase |
+| Scale | Institution-wide |
+| Performance | Real-time availability tracking |
+| Security | Role-based access |
+| Impact | Reduced staff search and coordination delays |
+| Repository | Private |
+
+### Highlights
+
+- 4-layer availability priority hierarchy
+- Timetable-driven automation
+- Meeting management system
+- Department-based filtering
+- Holiday & vacation management
+- Presented before College Council Committee
+- Successfully deployed for campus-wide use
+
+**Live:** https://staffoapp.vercel.app
+
+</details>
+
+<details>
+<summary><b>🎫 TickIt - Event Management Platform</b></summary>
+
+| Metric | Details |
+|---------|---------|
+| Stack | MERN |
+| Scale | Multi-event platform |
+| Performance | QR ticket validation |
+| Security | Authentication & ticket verification |
+| Impact | Simplified event management |
+| Repository | Private |
+
+### Highlights
+
+- Event creation dashboard
+- QR check-ins
+- Organizer management
+- Ticket issuance
+- Scalable architecture
+
+**Live:** https://tickit.website
+
+</details>
+
+<details>
+<summary><b>🎓 Btechified - Gamified Learning Platform</b></summary>
+
+| Metric | Details |
+|---------|---------|
+| Stack | React, Supabase |
+| Scale | Student-focused platform |
+| Performance | Fast and responsive |
+| Repository | Private |
+
+**Live:** https://app.btechified.in
+
+</details>
+
+<details>
+<summary><b>🎭 Arts App</b></summary>
+
+College arts event tracking and results management platform.
+
+**Live:** https://jecartsday.vercel.app/
+
+</details>
+
+---
+
+# Experience
+
+## Software Engineer — Fluxnode Technologies
+**Apr 2026 – Present**
+
+- Product engineering
+- Web application development
+- Scalable software solutions
+
+### Skills
+`React` `Node.js` `TypeScript` `Software Engineering`
+
+---
+
+## Founder & Software Engineer — Webernyx
+**Mar 2026 – Present**
+
+Building websites, web applications, and digital products for businesses and organizations.
+
+### Skills
+`Full Stack Development` `Product Engineering` `Client Delivery`
+
+---
+
+## Web Developer (Freelance)
+**Jan 2025 – Present**
+
+Delivering custom websites and applications for clients.
+
+---
+
+## Full Stack Developer — Btechified
+**Oct 2025 – Apr 2026**
+
+Contributed to development of a gamified learning platform.
+
+---
+
+## Frontend Intern — The Nexus Project
+**Jun 2025 – Jul 2025**
+
+Worked on frontend implementation and user interface development.
+
+---
+
+# Achievements
+
+| Recognition | Details |
+|------------|---------|
+| Staffo Deployment | Successfully deployed institution-wide |
+| College Council Presentation | Presented Staffo to council committee |
+| Founder | Established Webernyx |
+| Product Builder | Built multiple real-world products |
+| Full Stack Projects | Delivered applications from concept to deployment |
+
+---
+
+# Certifications
+
+### NPTEL
+![NPTEL](https://img.shields.io/badge/NPTEL-Programming_in_C-7C3AED?style=for-the-badge)
+
+### IBM
+![IBM](https://img.shields.io/badge/IBM-React_Development-6C63FF?style=for-the-badge)
+
+### Infosys Springboard
+![AI](https://img.shields.io/badge/AI_For_All-Completed-4338CA?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/Generative_AI-Completed-312E81?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+<a href="https://github.com/AshrithVarghese"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"></a>
+<a href="https://linkedin.com/in/ashrith-varghese/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"></a>
+<a href="https://ashrith.webernyx.in"><img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=for-the-badge"></a>
+<a href="https://webernyx.in"><img src="https://img.shields.io/badge/Webernyx-Founder-4338CA?style=for-the-badge"></a>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshrithVarghese&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AshrithVarghese&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrithVarghese&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=AshrithVarghese&theme=tokyonight&no-frame=true&margin-w=10)
+
+</div>
+
+---
+
+# Contribution Activity
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=AshrithVarghese&theme=tokyo-night)
+
+---
+
+# Contribution Snake
+
+```txt
+Configure through GitHub Actions after uploading README.
+Uses Platane/snk workflow.
+```
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Docker
+  - AWS
+  - Azure
+  - System Design
+
+Building:
+  - TickIt
+  - SaaS Products
+  - Scalable Web Applications
+
+Exploring:
+  - Cloud Architecture
+  - Product Engineering
+  - AI Assisted Development
+
+Open To:
+  - Internships
+  - Freelance Work
+  - Collaborations
+  - Open Source
+```
+
+---
+
+# Connect
+
+- Email: ashrithvarghese@gmail.com
+- Portfolio: https://ashrith.webernyx.in
+- LinkedIn: https://linkedin.com/in/ashrith-varghese/
+- GitHub: https://github.com/AshrithVarghese
+
+---
+
+<div align="center">
+
+> Building products that solve real problems.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6C63FF,50:7C3AED,100:312E81" width="100%"/>
+
+</div>

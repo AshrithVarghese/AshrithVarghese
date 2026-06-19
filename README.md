@@ -279,10 +279,9 @@ Worked on frontend implementation and user interface development.
 
 # Contribution Snake
 
-```txt
-Configure through GitHub Actions after uploading README.
-Uses Platane/snk workflow.
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AshrithVarghese/AshrithVarghese/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
